@@ -1,2 +1,2 @@
 # laughing-spork
-CLI password generator
+A tiny password generator for testing rust.
